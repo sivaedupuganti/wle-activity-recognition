@@ -20,37 +20,7 @@ This report is built with Rstudio on Mac, using the R libraries below.
 
 ```r
 library(caret) # Functions to build prediction model
-```
-
-```
-## Loading required package: lattice
-```
-
-```
-## Loading required package: ggplot2
-```
-
-```r
 library(randomForest) # Random forest prediction method
-```
-
-```
-## randomForest 4.6-12
-```
-
-```
-## Type rfNews() to see new features/changes/bug fixes.
-```
-
-```
-## 
-## Attaching package: 'randomForest'
-```
-
-```
-## The following object is masked from 'package:ggplot2':
-## 
-##     margin
 ```
 
 ## Data Source

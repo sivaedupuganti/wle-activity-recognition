@@ -22,7 +22,7 @@ We will build a model to predict the manner in which they did the exercise based
 
 ## Environment setup
 This report is built with Rstudio on Mac, using the R libraries below.
-```{r}
+```{r results='hide', message=FALSE, warning=FALSE}
 library(caret) # Functions to build prediction model
 library(randomForest) # Random forest prediction method
 ```
